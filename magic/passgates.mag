@@ -1,0 +1,126 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1740604869
+<< metal2 >>
+rect 166 1866 5272 2004
+rect 268 1193 406 1601
+rect 554 1203 672 1321
+rect 830 1203 948 1321
+rect 1106 1203 1224 1321
+rect 1382 1203 1500 1321
+rect 1658 1203 1776 1321
+rect 1934 1203 2052 1321
+rect 2210 1203 2328 1321
+rect 2486 1203 2604 1321
+rect 2762 1203 2880 1321
+rect 3038 1203 3156 1321
+rect 3314 1203 3432 1321
+rect 3590 1203 3708 1321
+rect 3866 1203 3984 1321
+rect 4142 1203 4260 1321
+rect 4418 1203 4536 1321
+rect 4694 1203 4812 1321
+rect 4970 1203 5088 1321
+rect 5236 1193 5374 1601
+rect 166 180 304 685
+rect 452 557 570 675
+rect 728 557 846 675
+rect 1004 557 1122 675
+rect 1280 557 1398 675
+rect 1556 557 1674 675
+rect 1832 557 1950 675
+rect 2108 557 2226 675
+rect 2384 557 2502 675
+rect 2660 557 2778 675
+rect 2936 557 3054 675
+rect 3212 557 3330 675
+rect 3488 557 3606 675
+rect 3764 557 3882 675
+rect 4040 557 4158 675
+rect 4316 557 4434 675
+rect 4592 557 4710 675
+rect 4868 557 4986 675
+rect 5134 180 5272 685
+rect 166 42 5272 180
+use transistor_quartet_bus19  transistor_quartet_bus19_0
+timestamp 1740604869
+transform 1 0 0 0 1 0
+box 0 0 5540 2076
+use passgate  x1
+timestamp 1740604869
+transform 1 0 324 0 1 0
+box 112 42 358 2004
+use passgate  x2
+timestamp 1740604869
+transform 1 0 600 0 1 0
+box 112 42 358 2004
+use passgate  x3
+timestamp 1740604869
+transform 1 0 876 0 1 0
+box 112 42 358 2004
+use passgate  x4
+timestamp 1740604869
+transform 1 0 1152 0 1 0
+box 112 42 358 2004
+use passgate  x5
+timestamp 1740604869
+transform 1 0 1428 0 1 0
+box 112 42 358 2004
+use passgate  x6
+timestamp 1740604869
+transform 1 0 1704 0 1 0
+box 112 42 358 2004
+use passgate  x7
+timestamp 1740604869
+transform 1 0 1980 0 1 0
+box 112 42 358 2004
+use passgate  x8
+timestamp 1740604869
+transform 1 0 2256 0 1 0
+box 112 42 358 2004
+use passgate  x9
+timestamp 1740604869
+transform 1 0 2532 0 1 0
+box 112 42 358 2004
+use passgate  x10
+timestamp 1740604869
+transform 1 0 2808 0 1 0
+box 112 42 358 2004
+use passgate  x11
+timestamp 1740604869
+transform 1 0 3084 0 1 0
+box 112 42 358 2004
+use passgate  x12
+timestamp 1740604869
+transform 1 0 3360 0 1 0
+box 112 42 358 2004
+use passgate  x13
+timestamp 1740604869
+transform 1 0 3636 0 1 0
+box 112 42 358 2004
+use passgate  x14
+timestamp 1740604869
+transform 1 0 3912 0 1 0
+box 112 42 358 2004
+use passgate  x15
+timestamp 1740604869
+transform 1 0 4188 0 1 0
+box 112 42 358 2004
+use passgate  x16
+timestamp 1740604869
+transform 1 0 4464 0 1 0
+box 112 42 358 2004
+use passgate  x17
+timestamp 1740604869
+transform 1 0 4740 0 1 0
+box 112 42 358 2004
+use passgate  xdummy1
+timestamp 1740604869
+transform 1 0 48 0 1 0
+box 112 42 358 2004
+use passgate  xdummy2
+timestamp 1740604869
+transform 1 0 5016 0 1 0
+box 112 42 358 2004
+<< end >>

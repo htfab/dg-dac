@@ -111,108 +111,103 @@ N 990 -250 1040 -250 {lab=VOUT}
 N 990 -150 1040 -150 {lab=VOUT}
 N 1040 -1650 1040 -150 {lab=VOUT}
 N 1040 -900 1070 -900 {lab=VOUT}
-N 790 -1670 790 -1650 {lab=#net17}
-N 790 -1750 790 -1730 {lab=#net32}
-N 790 -1750 910 -1750 {lab=#net32}
-N 990 -1750 1040 -1750 {lab=VOUT}
-N 1040 -1750 1040 -1650 {lab=VOUT}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1700 2 0 {name=R1
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1700 2 0 {name=R16
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1600 2 0 {name=R2
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1600 2 0 {name=R15
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1500 2 0 {name=R3
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1500 2 0 {name=R14
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1400 2 0 {name=R4
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1400 2 0 {name=R13
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1300 2 0 {name=R5
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1300 2 0 {name=R12
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1200 2 0 {name=R6
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1200 2 0 {name=R11
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1100 2 0 {name=R7
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1100 2 0 {name=R10
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1000 2 0 {name=R8
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -1000 2 0 {name=R9
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -900 2 0 {name=R9
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -900 2 0 {name=R8
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -800 2 0 {name=R10
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -800 2 0 {name=R7
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -700 2 0 {name=R11
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -700 2 0 {name=R6
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -600 2 0 {name=R12
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -600 2 0 {name=R5
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -500 2 0 {name=R13
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -500 2 0 {name=R4
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -400 2 0 {name=R14
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -400 2 0 {name=R3
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -300 2 0 {name=R15
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -300 2 0 {name=R2
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -200 2 0 {name=R16
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 340 -200 2 0 {name=R1
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {passgate.sym} 510 -1750 0 0 {name=x1}
+C {passgate.sym} 510 -1750 0 0 {name=x17}
 C {devices/lab_pin.sym} 360 -1700 0 1 {name=p2 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 360 -1600 0 1 {name=p4 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 360 -1500 0 1 {name=p5 sig_type=std_logic lab=VSS}
@@ -231,91 +226,91 @@ C {devices/lab_pin.sym} 360 -300 0 1 {name=p18 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 360 -200 0 1 {name=p19 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 490 -1790 0 0 {name=p20 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1710 0 0 {name=p21 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1650 0 0 {name=x2}
+C {passgate.sym} 510 -1650 0 0 {name=x16}
 C {devices/lab_pin.sym} 490 -1690 0 0 {name=p22 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1610 0 0 {name=p23 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1550 0 0 {name=x3}
+C {passgate.sym} 510 -1550 0 0 {name=x15}
 C {devices/lab_pin.sym} 490 -1590 0 0 {name=p24 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1510 0 0 {name=p25 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1450 0 0 {name=x4}
+C {passgate.sym} 510 -1450 0 0 {name=x14}
 C {devices/lab_pin.sym} 490 -1490 0 0 {name=p26 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1410 0 0 {name=p27 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1350 0 0 {name=x5}
+C {passgate.sym} 510 -1350 0 0 {name=x13}
 C {devices/lab_pin.sym} 490 -1390 0 0 {name=p28 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1310 0 0 {name=p29 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1250 0 0 {name=x6}
+C {passgate.sym} 510 -1250 0 0 {name=x12}
 C {devices/lab_pin.sym} 490 -1290 0 0 {name=p30 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1210 0 0 {name=p31 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1150 0 0 {name=x7}
+C {passgate.sym} 510 -1150 0 0 {name=x11}
 C {devices/lab_pin.sym} 490 -1190 0 0 {name=p32 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1110 0 0 {name=p33 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -1050 0 0 {name=x8}
+C {passgate.sym} 510 -1050 0 0 {name=x10}
 C {devices/lab_pin.sym} 490 -1090 0 0 {name=p34 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -1010 0 0 {name=p35 sig_type=std_logic lab=VSS}
 C {passgate.sym} 510 -950 0 0 {name=x9}
 C {devices/lab_pin.sym} 490 -990 0 0 {name=p36 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -910 0 0 {name=p37 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -850 0 0 {name=x10}
+C {passgate.sym} 510 -850 0 0 {name=x8}
 C {devices/lab_pin.sym} 490 -890 0 0 {name=p38 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -810 0 0 {name=p39 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -750 0 0 {name=x11}
+C {passgate.sym} 510 -750 0 0 {name=x7}
 C {devices/lab_pin.sym} 490 -790 0 0 {name=p40 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -710 0 0 {name=p41 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -650 0 0 {name=x12}
+C {passgate.sym} 510 -650 0 0 {name=x6}
 C {devices/lab_pin.sym} 490 -690 0 0 {name=p42 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -610 0 0 {name=p43 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -550 0 0 {name=x13}
+C {passgate.sym} 510 -550 0 0 {name=x5}
 C {devices/lab_pin.sym} 490 -590 0 0 {name=p44 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -510 0 0 {name=p45 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -450 0 0 {name=x14}
+C {passgate.sym} 510 -450 0 0 {name=x4}
 C {devices/lab_pin.sym} 490 -490 0 0 {name=p46 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -410 0 0 {name=p47 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -350 0 0 {name=x15}
+C {passgate.sym} 510 -350 0 0 {name=x3}
 C {devices/lab_pin.sym} 490 -390 0 0 {name=p48 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -310 0 0 {name=p49 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -250 0 0 {name=x16}
+C {passgate.sym} 510 -250 0 0 {name=x2}
 C {devices/lab_pin.sym} 490 -290 0 0 {name=p50 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -210 0 0 {name=p51 sig_type=std_logic lab=VSS}
-C {passgate.sym} 510 -150 0 0 {name=x17}
+C {passgate.sym} 510 -150 0 0 {name=x1}
 C {devices/lab_pin.sym} 490 -190 0 0 {name=p52 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 490 -110 0 0 {name=p53 sig_type=std_logic lab=VSS}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1600 2 0 {name=R17
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1600 2 0 {name=R31
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1500 2 0 {name=R18
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1500 2 0 {name=R30
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1400 2 0 {name=R19
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1400 2 0 {name=R29
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1300 2 0 {name=R20
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1300 2 0 {name=R28
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1200 2 0 {name=R21
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1200 2 0 {name=R27
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1100 2 0 {name=R22
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1100 2 0 {name=R26
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1000 2 0 {name=R23
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1000 2 0 {name=R25
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
@@ -327,43 +322,43 @@ L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -800 2 0 {name=R25
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -800 2 0 {name=R23
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -700 2 0 {name=R26
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -700 2 0 {name=R22
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -600 2 0 {name=R27
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -600 2 0 {name=R21
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -500 2 0 {name=R28
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -500 2 0 {name=R20
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -400 2 0 {name=R29
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -400 2 0 {name=R19
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -300 2 0 {name=R30
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -300 2 0 {name=R18
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
 spiceprefix=X
 mult=1}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -200 2 0 {name=R31
+C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -200 2 0 {name=R17
 W=0.35
 L=8.75
 model=res_xhigh_po_0p35
@@ -384,52 +379,52 @@ C {devices/lab_pin.sym} 810 -500 0 1 {name=p66 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 810 -400 0 1 {name=p67 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 810 -300 0 1 {name=p68 sig_type=std_logic lab=VSS}
 C {devices/lab_pin.sym} 810 -200 0 1 {name=p69 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1650 0 0 {name=x18}
+C {passgate.sym} 950 -1650 0 0 {name=x33}
 C {devices/lab_pin.sym} 930 -1690 0 0 {name=p54 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1610 0 0 {name=p70 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1550 0 0 {name=x19}
+C {passgate.sym} 950 -1550 0 0 {name=x32}
 C {devices/lab_pin.sym} 930 -1590 0 0 {name=p71 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1510 0 0 {name=p72 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1450 0 0 {name=x20}
+C {passgate.sym} 950 -1450 0 0 {name=x31}
 C {devices/lab_pin.sym} 930 -1490 0 0 {name=p73 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1410 0 0 {name=p74 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1350 0 0 {name=x21}
+C {passgate.sym} 950 -1350 0 0 {name=x30}
 C {devices/lab_pin.sym} 930 -1390 0 0 {name=p75 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1310 0 0 {name=p76 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1250 0 0 {name=x22}
+C {passgate.sym} 950 -1250 0 0 {name=x29}
 C {devices/lab_pin.sym} 930 -1290 0 0 {name=p77 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1210 0 0 {name=p78 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1150 0 0 {name=x23}
+C {passgate.sym} 950 -1150 0 0 {name=x28}
 C {devices/lab_pin.sym} 930 -1190 0 0 {name=p79 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1110 0 0 {name=p80 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -1050 0 0 {name=x24}
+C {passgate.sym} 950 -1050 0 0 {name=x27}
 C {devices/lab_pin.sym} 930 -1090 0 0 {name=p81 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -1010 0 0 {name=p82 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -950 0 0 {name=x25}
+C {passgate.sym} 950 -950 0 0 {name=x26}
 C {devices/lab_pin.sym} 930 -990 0 0 {name=p83 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -910 0 0 {name=p84 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -850 0 0 {name=x26}
+C {passgate.sym} 950 -850 0 0 {name=x25}
 C {devices/lab_pin.sym} 930 -890 0 0 {name=p85 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -810 0 0 {name=p86 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -750 0 0 {name=x27}
+C {passgate.sym} 950 -750 0 0 {name=x24}
 C {devices/lab_pin.sym} 930 -790 0 0 {name=p87 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -710 0 0 {name=p88 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -650 0 0 {name=x28}
+C {passgate.sym} 950 -650 0 0 {name=x23}
 C {devices/lab_pin.sym} 930 -690 0 0 {name=p89 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -610 0 0 {name=p90 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -550 0 0 {name=x29}
+C {passgate.sym} 950 -550 0 0 {name=x22}
 C {devices/lab_pin.sym} 930 -590 0 0 {name=p91 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -510 0 0 {name=p92 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -450 0 0 {name=x30}
+C {passgate.sym} 950 -450 0 0 {name=x21}
 C {devices/lab_pin.sym} 930 -490 0 0 {name=p93 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -410 0 0 {name=p94 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -350 0 0 {name=x31}
+C {passgate.sym} 950 -350 0 0 {name=x20}
 C {devices/lab_pin.sym} 930 -390 0 0 {name=p95 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -310 0 0 {name=p96 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -250 0 0 {name=x32}
+C {passgate.sym} 950 -250 0 0 {name=x19}
 C {devices/lab_pin.sym} 930 -290 0 0 {name=p97 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -210 0 0 {name=p98 sig_type=std_logic lab=VSS}
-C {passgate.sym} 950 -150 0 0 {name=x33}
+C {passgate.sym} 950 -150 0 0 {name=x18}
 C {devices/lab_pin.sym} 930 -190 0 0 {name=p99 sig_type=std_logic lab=VDD}
 C {devices/lab_pin.sym} 930 -110 0 0 {name=p100 sig_type=std_logic lab=VSS}
 C {devices/iopin.sym} 340 -110 0 1 {name=p102 lab=VSS}
@@ -470,14 +465,3 @@ C {devices/lab_pin.sym} 950 -1510 0 1 {name=p134 lab=D[14]}
 C {devices/lab_pin.sym} 950 -1610 0 1 {name=p135 lab=D[15]}
 C {devices/ipin.sym} 510 -80 2 1 {name=p1 lab=C[16:0]}
 C {devices/ipin.sym} 950 -80 2 1 {name=p140 lab=D[15:0]}
-C {sky130_fd_pr/res_xhigh_po_0p35.sym} 790 -1700 2 0 {name=Rdummy
-W=0.35
-L=8.75
-model=res_xhigh_po_0p35
-spiceprefix=X
-mult=1}
-C {passgate.sym} 950 -1750 0 0 {name=xdummy}
-C {devices/lab_pin.sym} 930 -1790 0 0 {name=p120 sig_type=std_logic lab=VDD}
-C {devices/lab_pin.sym} 930 -1710 0 0 {name=p136 sig_type=std_logic lab=VSS}
-C {devices/lab_pin.sym} 950 -1710 0 1 {name=p137 lab=VSS}
-C {devices/lab_pin.sym} 810 -1700 0 1 {name=p138 sig_type=std_logic lab=VSS}

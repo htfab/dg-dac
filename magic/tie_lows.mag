@@ -1,0 +1,136 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1740630102
+<< locali >>
+rect 40 730 140 736
+rect 40 672 52 730
+rect 128 672 140 730
+rect 40 666 140 672
+rect 2524 730 2636 736
+rect 2524 672 2536 730
+rect 2624 672 2636 730
+rect 2524 666 2636 672
+rect -2 520 140 526
+rect -2 462 52 520
+rect 128 462 140 520
+rect -2 456 140 462
+rect 2536 520 2636 526
+rect 2536 462 2548 520
+rect 2624 462 2636 520
+rect 2536 456 2636 462
+<< viali >>
+rect 52 672 128 730
+rect 2536 672 2624 730
+rect 52 462 128 520
+rect 2548 462 2624 520
+<< metal1 >>
+rect 40 1226 140 1232
+rect 2536 1226 2636 1232
+rect 40 1168 52 1226
+rect 128 1168 2548 1226
+rect 2624 1168 2636 1226
+rect 40 1162 140 1168
+rect 2536 1162 2636 1168
+rect 40 730 140 736
+rect 40 672 52 730
+rect 128 672 140 730
+rect 40 666 140 672
+rect 2524 730 2636 736
+rect 2524 672 2536 730
+rect 2624 672 2636 730
+rect 2524 666 2636 672
+rect -110 520 140 526
+rect -110 462 -98 520
+rect -22 462 52 520
+rect 128 462 140 520
+rect -110 456 140 462
+rect 2536 520 2786 526
+rect 2536 462 2548 520
+rect 2624 462 2698 520
+rect 2774 462 2786 520
+rect 2536 456 2786 462
+rect 312 209 346 347
+rect 612 209 646 347
+rect 912 209 946 347
+rect 1212 209 1246 347
+rect 1512 209 1546 347
+rect 1812 209 1846 347
+rect 2112 209 2146 347
+rect 2412 209 2446 347
+rect -110 94 -10 100
+rect 2686 94 2786 100
+rect -110 36 -98 94
+rect -22 36 2698 94
+rect 2774 36 2786 94
+rect -110 30 -10 36
+rect 2686 30 2786 36
+<< via1 >>
+rect 52 1168 128 1226
+rect 2548 1168 2624 1226
+rect 52 672 128 730
+rect 2548 672 2624 730
+rect -98 462 -22 520
+rect 2698 462 2774 520
+rect -98 36 -22 94
+rect 2698 36 2774 94
+<< metal2 >>
+rect -110 520 -10 1292
+rect -110 462 -98 520
+rect -22 462 -10 520
+rect -110 94 -10 462
+rect -110 36 -98 94
+rect -22 36 -10 94
+rect -110 0 -10 36
+rect 40 1226 140 1292
+rect 40 1168 52 1226
+rect 128 1168 140 1226
+rect 40 730 140 1168
+rect 40 672 52 730
+rect 128 672 140 730
+rect 40 0 140 672
+rect 2536 1226 2636 1292
+rect 2536 1168 2548 1226
+rect 2624 1168 2636 1226
+rect 2536 730 2636 1168
+rect 2536 672 2548 730
+rect 2624 672 2636 730
+rect 2536 0 2636 672
+rect 2686 520 2786 1292
+rect 2686 462 2698 520
+rect 2774 462 2786 520
+rect 2686 94 2786 462
+rect 2686 36 2698 94
+rect 2774 36 2786 94
+rect 2686 0 2786 36
+use tie_low  tie_low_1
+array 0 7 300 0 0 1292
+timestamp 1739883986
+transform 1 0 0 0 1 0
+box 88 36 388 1226
+use transistor_pair_bus8  transistor_pair_bus8_0
+timestamp 1740627177
+transform 1 0 0 0 1 0
+box -60 0 2636 1292
+<< labels >>
+flabel metal2 -110 0 -10 1292 1 FreeSans 400 0 0 0 VSS
+port 1 n ground bidirectional
+flabel metal2 40 0 140 1292 1 FreeSans 400 0 0 0 VDD
+port 2 n power bidirectional
+flabel metal1 2412 209 2446 347 1 FreeSans 400 0 0 0 LO[0]
+port 3 n signal output
+flabel metal1 2112 209 2146 347 1 FreeSans 400 0 0 0 LO[1]
+port 4 n signal output
+flabel metal1 1812 209 1846 347 1 FreeSans 400 0 0 0 LO[2]
+port 5 n signal output
+flabel metal1 1512 209 1546 347 1 FreeSans 400 0 0 0 LO[3]
+port 6 n signal output
+flabel metal1 1212 209 1246 347 1 FreeSans 400 0 0 0 LO[4]
+port 7 n signal output
+flabel metal1 912 209 946 347 1 FreeSans 400 0 0 0 LO[5]
+port 8 n signal output
+flabel metal1 612 209 646 347 1 FreeSans 400 0 0 0 LO[6]
+port 9 n signal output
+flabel metal1 312 209 346 347 1 FreeSans 400 0 0 0 LO[7]
+port 10 n signal output
+<< end >>

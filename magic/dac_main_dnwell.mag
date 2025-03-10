@@ -1,0 +1,231 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1740625094
+<< dnwell >>
+rect -465 -335 6287 7549
+<< nwell >>
+rect -545 7343 6367 7629
+rect -545 -129 -259 7343
+rect 6081 -129 6367 7343
+rect -545 -415 6367 -129
+<< nsubdiff >>
+rect -508 7572 6330 7592
+rect -508 7538 -428 7572
+rect 6250 7538 6330 7572
+rect -508 7518 6330 7538
+rect -508 7512 -434 7518
+rect -508 -298 -488 7512
+rect -454 -298 -434 7512
+rect -508 -304 -434 -298
+rect 6256 7512 6330 7518
+rect 6256 -298 6276 7512
+rect 6310 -298 6330 7512
+rect 6256 -304 6330 -298
+rect -508 -324 6330 -304
+rect -508 -358 -428 -324
+rect 6250 -358 6330 -324
+rect -508 -378 6330 -358
+<< nsubdiffcont >>
+rect -428 7538 6250 7572
+rect -488 -298 -454 7512
+rect 6276 -298 6310 7512
+rect -428 -358 6250 -324
+<< locali >>
+rect 150 7593 250 7605
+rect 150 7572 162 7593
+rect 238 7572 250 7593
+rect 5572 7593 5672 7605
+rect 5572 7572 5584 7593
+rect 5660 7572 5672 7593
+rect -488 7538 -428 7572
+rect 6250 7538 6310 7572
+rect -488 7512 -454 7538
+rect 150 7517 162 7538
+rect 238 7517 250 7538
+rect 150 7505 250 7517
+rect 5572 7517 5584 7538
+rect 5660 7517 5672 7538
+rect 5572 7505 5672 7517
+rect 6276 7512 6310 7538
+rect -488 -324 -454 -298
+rect 150 -303 250 -291
+rect 150 -324 162 -303
+rect 238 -324 250 -303
+rect 5572 -303 5672 -291
+rect 5572 -324 5584 -303
+rect 5660 -324 5672 -303
+rect 6276 -324 6310 -298
+rect -488 -358 -428 -324
+rect 6250 -358 6310 -324
+rect 150 -379 162 -358
+rect 238 -379 250 -358
+rect 150 -391 250 -379
+rect 5572 -379 5584 -358
+rect 5660 -379 5672 -358
+rect 5572 -391 5672 -379
+<< viali >>
+rect 162 7572 238 7593
+rect 5584 7572 5660 7593
+rect 162 7538 238 7572
+rect 5584 7538 5660 7572
+rect 162 7517 238 7538
+rect 5584 7517 5660 7538
+rect 162 -324 238 -303
+rect 5584 -324 5660 -303
+rect 162 -358 238 -324
+rect 5584 -358 5660 -324
+rect 162 -379 238 -358
+rect 5584 -379 5660 -358
+<< metal1 >>
+rect 150 7593 250 7605
+rect 150 7517 162 7593
+rect 238 7517 250 7593
+rect 150 7505 250 7517
+rect 5572 7593 5672 7605
+rect 5572 7517 5584 7593
+rect 5660 7517 5672 7593
+rect 5572 7505 5672 7517
+rect 150 -303 250 -291
+rect 150 -379 162 -303
+rect 238 -379 250 -303
+rect 150 -391 250 -379
+rect 5572 -303 5672 -291
+rect 5572 -379 5584 -303
+rect 5660 -379 5672 -303
+rect 5572 -391 5672 -379
+<< via1 >>
+rect 162 7517 238 7593
+rect 5584 7517 5660 7593
+rect 162 -379 238 -303
+rect 5584 -379 5660 -303
+<< metal2 >>
+rect 0 -415 100 7629
+rect 150 7593 250 7629
+rect 150 7517 162 7593
+rect 238 7517 250 7593
+rect 150 -303 250 7517
+rect 5572 7593 5672 7629
+rect 5572 7517 5584 7593
+rect 5660 7517 5672 7593
+rect 961 6701 1099 6839
+rect 1237 6701 1375 6839
+rect 1513 6701 1651 6839
+rect 1789 6701 1927 6839
+rect 2065 6701 2203 6839
+rect 2341 6701 2479 6839
+rect 2617 6701 2755 6839
+rect 2893 6701 3031 6839
+rect 3169 6701 3307 6839
+rect 3445 6701 3583 6839
+rect 3721 6701 3859 6839
+rect 3997 6701 4135 6839
+rect 4273 6701 4411 6839
+rect 4549 6701 4687 6839
+rect 4825 6701 4963 6839
+rect 5101 6701 5239 6839
+rect 583 375 721 513
+rect 859 375 997 513
+rect 1135 375 1273 513
+rect 1411 375 1549 513
+rect 1687 375 1825 513
+rect 1963 375 2101 513
+rect 2239 375 2377 513
+rect 2515 375 2653 513
+rect 2791 375 2929 513
+rect 3067 375 3205 513
+rect 3343 375 3481 513
+rect 3619 375 3757 513
+rect 3895 375 4033 513
+rect 4171 375 4309 513
+rect 4447 375 4585 513
+rect 4723 375 4861 513
+rect 4999 375 5137 513
+rect 150 -379 162 -303
+rect 238 -379 250 -303
+rect 150 -415 250 -379
+rect 5572 -303 5672 7517
+rect 5572 -379 5584 -303
+rect 5660 -379 5672 -303
+rect 5572 -415 5672 -379
+rect 5722 -415 5822 7629
+<< metal3 >>
+rect 961 6529 5239 6667
+use dac_main  dac_main_0
+timestamp 1740620545
+transform 1 0 0 0 1 0
+box 0 0 5822 7214
+<< labels >>
+flabel metal2 0 0 100 7214 1 FreeSans 400 0 0 0 VSS
+port 1 n ground bidirectional
+flabel metal2 150 0 250 7214 1 FreeSans 400 0 0 0 VDD
+port 2 n power bidirectional
+flabel metal3 961 6529 5239 6667 1 FreeSans 400 0 0 0 VOUT
+port 3 n signal default
+flabel metal2 5101 6701 5239 6839 1 FreeSans 400 0 0 0 D[0]
+port 4 n signal default
+flabel metal2 4825 6701 4963 6839 1 FreeSans 400 0 0 0 D[1]
+port 5 n signal default
+flabel metal2 4549 6701 4687 6839 1 FreeSans 400 0 0 0 D[2]
+port 6 n signal default
+flabel metal2 4273 6701 4411 6839 1 FreeSans 400 0 0 0 D[3]
+port 7 n signal default
+flabel metal2 3997 6701 4135 6839 1 FreeSans 400 0 0 0 D[4]
+port 8 n signal default
+flabel metal2 3721 6701 3859 6839 1 FreeSans 400 0 0 0 D[5]
+port 9 n signal default
+flabel metal2 3445 6701 3583 6839 1 FreeSans 400 0 0 0 D[6]
+port 10 n signal default
+flabel metal2 3169 6701 3307 6839 1 FreeSans 400 0 0 0 D[7]
+port 11 n signal default
+flabel metal2 2893 6701 3031 6839 1 FreeSans 400 0 0 0 D[8]
+port 12 n signal default
+flabel metal2 2617 6701 2755 6839 1 FreeSans 400 0 0 0 D[9]
+port 13 n signal default
+flabel metal2 2341 6701 2479 6839 1 FreeSans 400 0 0 0 D[10]
+port 14 n signal default
+flabel metal2 2065 6701 2203 6839 1 FreeSans 400 0 0 0 D[11]
+port 15 n signal default
+flabel metal2 1789 6701 1927 6839 1 FreeSans 400 0 0 0 D[12]
+port 16 n signal default
+flabel metal2 1513 6701 1651 6839 1 FreeSans 400 0 0 0 D[13]
+port 17 n signal default
+flabel metal2 1237 6701 1375 6839 1 FreeSans 400 0 0 0 D[14]
+port 18 n signal default
+flabel metal2 961 6701 1099 6839 1 FreeSans 400 0 0 0 D[15]
+port 19 n signal default
+flabel metal2 583 375 721 513 1 FreeSans 400 0 0 0 C[0]
+port 20 n signal default
+flabel metal2 859 375 997 513 1 FreeSans 400 0 0 0 C[1]
+port 21 n signal default
+flabel metal2 1135 375 1273 513 1 FreeSans 400 0 0 0 C[2]
+port 22 n signal default
+flabel metal2 1411 375 1549 513 1 FreeSans 400 0 0 0 C[3]
+port 23 n signal default
+flabel metal2 1687 375 1825 513 1 FreeSans 400 0 0 0 C[4]
+port 24 n signal default
+flabel metal2 1963 375 2101 513 1 FreeSans 400 0 0 0 C[5]
+port 25 n signal default
+flabel metal2 2239 375 2377 513 1 FreeSans 400 0 0 0 C[6]
+port 26 n signal default
+flabel metal2 2515 375 2653 513 1 FreeSans 400 0 0 0 C[7]
+port 27 n signal default
+flabel metal2 2791 375 2929 513 1 FreeSans 400 0 0 0 C[8]
+port 28 n signal default
+flabel metal2 3067 375 3205 513 1 FreeSans 400 0 0 0 C[9]
+port 29 n signal default
+flabel metal2 3343 375 3481 513 1 FreeSans 400 0 0 0 C[10]
+port 30 n signal default
+flabel metal2 3619 375 3757 513 1 FreeSans 400 0 0 0 C[11]
+port 31 n signal default
+flabel metal2 3895 375 4033 513 1 FreeSans 400 0 0 0 C[12]
+port 32 n signal default
+flabel metal2 4171 375 4309 513 1 FreeSans 400 0 0 0 C[13]
+port 33 n signal default
+flabel metal2 4447 375 4585 513 1 FreeSans 400 0 0 0 C[14]
+port 34 n signal default
+flabel metal2 4723 375 4861 513 1 FreeSans 400 0 0 0 C[15]
+port 35 n signal default
+flabel metal2 4999 375 5137 513 1 FreeSans 400 0 0 0 C[16]
+port 36 n signal default
+<< end >>

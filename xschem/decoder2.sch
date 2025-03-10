@@ -4,12 +4,17 @@ K {}
 V {}
 S {}
 E {}
+L 18 210 -780 400 -780 {}
+L 18 400 -780 400 -640 {}
+L 18 210 -640 400 -640 {}
+L 18 210 -780 210 -640 {}
+T {dummies} 215 -795 0 0 0.2 0.2 {layer=18}
 N 100 -300 140 -300 {
 lab=D[0]}
 N 100 -460 140 -460 {
 lab=D[1]}
 N 800 -160 840 -160 {
-lab=U[3]}
+lab=U[0]}
 N 800 -280 840 -280 {
 lab=U[1]}
 N 800 -400 840 -400 {
@@ -140,3 +145,11 @@ C {devices/lab_pin.sym} 840 -520 0 1 {name=p29 sig_type=std_logic lab=U[3]}
 C {devices/lab_pin.sym} 840 -400 0 1 {name=p3 sig_type=std_logic lab=U[2]}
 C {devices/lab_pin.sym} 840 -280 0 1 {name=p4 sig_type=std_logic lab=U[1]}
 C {devices/lab_pin.sym} 840 -160 0 1 {name=p5 sig_type=std_logic lab=U[0]}
+C {inverter.sym} 310 -710 0 0 {name=xdummy}
+C {devices/lab_pin.sym} 290 -740 0 1 {name=p30 sig_type=std_logic lab=VDD
+}
+C {devices/lab_pin.sym} 290 -680 0 1 {name=p31 sig_type=std_logic lab=VSS
+}
+C {devices/lab_pin.sym} 270 -710 0 0 {name=p32 sig_type=std_logic lab=VSS
+}
+C {ignore.sym} 350 -710 0 0 {name=l1}

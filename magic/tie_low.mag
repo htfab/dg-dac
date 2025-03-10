@@ -1,0 +1,23 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1739883986
+<< metal1 >>
+rect 88 1168 388 1226
+rect 130 845 164 1168
+rect 221 966 255 1130
+rect 312 966 346 1053
+rect 221 932 346 966
+rect 130 94 164 347
+rect 221 141 255 932
+rect 312 845 346 932
+rect 312 209 346 347
+rect 88 36 388 94
+<< labels >>
+flabel metal1 88 1168 388 1226 0 FreeSans 256 0 0 0 VDD
+port 1 nsew
+flabel metal1 88 36 388 94 0 FreeSans 256 0 0 0 VSS
+port 2 nsew
+flabel metal1 312 209 346 347 0 FreeSans 256 0 0 0 LO
+port 0 nsew
+<< end >>
