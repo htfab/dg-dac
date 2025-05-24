@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1740630667
+timestamp 1748060222
 << locali >>
 rect -63 3414 37 3420
 rect -63 3356 -51 3414
@@ -307,7 +307,7 @@ rect 2790 36 2802 94
 rect 2702 0 2802 36
 use shifter  shifter_1
 array 0 7 300 0 0 6127
-timestamp 1740623360
+timestamp 1748060222
 transform 1 0 0 0 1 0
 box 88 36 388 3910
 use transistor_pair_bus8  transistor_pair_bus8_0
