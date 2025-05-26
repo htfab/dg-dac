@@ -43,83 +43,83 @@ rect 4592 557 4710 675
 rect 4868 557 4986 675
 rect 5134 180 5272 685
 rect 166 42 5272 180
-use transistor_quartet_bus19  transistor_quartet_bus19_0
+use transistor_quartet_bus_19  transistor_quartet_bus_19_0
 timestamp 1740604869
 transform 1 0 0 0 1 0
 box 0 0 5540 2076
-use passgate  x1
+use passgate_raw  x1
 timestamp 1740604869
 transform 1 0 324 0 1 0
 box 112 42 358 2004
-use passgate  x2
+use passgate_raw  x2
 timestamp 1740604869
 transform 1 0 600 0 1 0
 box 112 42 358 2004
-use passgate  x3
+use passgate_raw  x3
 timestamp 1740604869
 transform 1 0 876 0 1 0
 box 112 42 358 2004
-use passgate  x4
+use passgate_raw  x4
 timestamp 1740604869
 transform 1 0 1152 0 1 0
 box 112 42 358 2004
-use passgate  x5
+use passgate_raw  x5
 timestamp 1740604869
 transform 1 0 1428 0 1 0
 box 112 42 358 2004
-use passgate  x6
+use passgate_raw  x6
 timestamp 1740604869
 transform 1 0 1704 0 1 0
 box 112 42 358 2004
-use passgate  x7
+use passgate_raw  x7
 timestamp 1740604869
 transform 1 0 1980 0 1 0
 box 112 42 358 2004
-use passgate  x8
+use passgate_raw  x8
 timestamp 1740604869
 transform 1 0 2256 0 1 0
 box 112 42 358 2004
-use passgate  x9
+use passgate_raw  x9
 timestamp 1740604869
 transform 1 0 2532 0 1 0
 box 112 42 358 2004
-use passgate  x10
+use passgate_raw  x10
 timestamp 1740604869
 transform 1 0 2808 0 1 0
 box 112 42 358 2004
-use passgate  x11
+use passgate_raw  x11
 timestamp 1740604869
 transform 1 0 3084 0 1 0
 box 112 42 358 2004
-use passgate  x12
+use passgate_raw  x12
 timestamp 1740604869
 transform 1 0 3360 0 1 0
 box 112 42 358 2004
-use passgate  x13
+use passgate_raw  x13
 timestamp 1740604869
 transform 1 0 3636 0 1 0
 box 112 42 358 2004
-use passgate  x14
+use passgate_raw  x14
 timestamp 1740604869
 transform 1 0 3912 0 1 0
 box 112 42 358 2004
-use passgate  x15
+use passgate_raw  x15
 timestamp 1740604869
 transform 1 0 4188 0 1 0
 box 112 42 358 2004
-use passgate  x16
+use passgate_raw  x16
 timestamp 1740604869
 transform 1 0 4464 0 1 0
 box 112 42 358 2004
-use passgate  x17
+use passgate_raw  x17
 timestamp 1740604869
 transform 1 0 4740 0 1 0
 box 112 42 358 2004
-use passgate  xdummy1
+use passgate_raw  xdummy1
 timestamp 1740604869
 transform 1 0 48 0 1 0
 box 112 42 358 2004
-use passgate  xdummy2
+use passgate_raw  xdummy2
 timestamp 1740604869
 transform 1 0 5016 0 1 0
 box 112 42 358 2004

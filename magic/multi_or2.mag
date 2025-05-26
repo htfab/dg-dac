@@ -1,12 +1,12 @@
 magic
 tech sky130A
 timestamp 1748065934
-use or2  or2_0
+use or2_raw  or2_raw_0
 array 0 16 450 0 0 595
 timestamp 1748065934
 transform 1 0 74 0 1 18
 box 0 0 450 595
-use transistor_pair_bus51  transistor_pair_bus51_0
+use transistor_pair_bus_51  transistor_pair_bus_51_0
 timestamp 1748065934
 transform 1 0 30 0 1 0
 box -30 0 7768 646

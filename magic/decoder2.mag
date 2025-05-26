@@ -461,51 +461,51 @@ rect 2819 566 2824 626
 rect 2754 561 2824 566
 rect 2759 462 2819 561
 rect 2304 30 2374 35
-use transistor_pair_bus9  transistor_pair_bus9_0
+use transistor_pair_bus_9  transistor_pair_bus_9_0
 timestamp 1727641816
 transform 1 0 60 0 1 0
 box -60 0 2936 1292
-use transistor_pair_bus9  transistor_pair_bus9_1
+use transistor_pair_bus_9  transistor_pair_bus_9_1
 timestamp 1727641816
 transform 1 0 60 0 1 1342
 box -60 0 2936 1292
-use inverter  x1
+use inverter_raw  x1
 timestamp 1748060222
 transform 1 0 60 0 1 0
 box 88 36 388 1226
-use inverter  x2
+use inverter_raw  x2
 timestamp 1748060222
 transform 1 0 360 0 1 0
 box 88 36 388 1226
-use inverter  x3
+use inverter_raw  x3
 timestamp 1748060222
 transform 1 0 660 0 1 0
 box 88 36 388 1226
-use inverter  x4
+use inverter_raw  x4
 timestamp 1748060222
 transform 1 0 360 0 1 1342
 box 88 36 388 1226
-use inverter  x5
+use inverter_raw  x5
 timestamp 1748060222
 transform 1 0 660 0 1 1342
 box 88 36 388 1226
-use nor3  x6
+use nor3_raw  x6
 timestamp 1727641975
 transform 1 0 960 0 1 0
 box 88 36 964 1226
-use nor3  x7
+use nor3_raw  x7
 timestamp 1727641975
 transform 1 0 1860 0 1 0
 box 88 36 964 1226
-use nor3  x8
+use nor3_raw  x8
 timestamp 1727641975
 transform 1 0 960 0 1 1342
 box 88 36 964 1226
-use nor3  x9
+use nor3_raw  x9
 timestamp 1727641975
 transform 1 0 1860 0 1 1342
 box 88 36 964 1226
-use inverter  xdummy
+use inverter_raw  xdummy
 timestamp 1748060222
 transform 1 0 60 0 1 1342
 box 88 36 388 1226

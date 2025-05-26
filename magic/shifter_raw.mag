@@ -78,7 +78,7 @@ rect 130 561 255 595
 rect 221 424 255 561
 rect 206 372 212 424
 rect 264 372 270 424
-use inverter  inverter_0
+use inverter_raw  inverter_raw_0
 timestamp 1748060222
 transform 1 0 0 0 1 2684
 box 88 36 388 1226

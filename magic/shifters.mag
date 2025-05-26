@@ -305,20 +305,20 @@ rect 2702 94 2802 462
 rect 2702 36 2714 94
 rect 2790 36 2802 94
 rect 2702 0 2802 36
-use shifter  shifter_1
+use shifter_raw  shifter_raw_1
 array 0 7 300 0 0 6127
 timestamp 1748060222
 transform 1 0 0 0 1 0
 box 88 36 388 3910
-use transistor_pair_bus8  transistor_pair_bus8_0
+use transistor_pair_bus_8  transistor_pair_bus_8_0
 timestamp 1740627177
 transform 1 0 0 0 1 0
 box -60 0 2636 1292
-use transistor_pair_bus8  transistor_pair_bus8_1
+use transistor_pair_bus_8  transistor_pair_bus_8_1
 timestamp 1740627177
 transform 1 0 0 0 1 1342
 box -60 0 2636 1292
-use transistor_pair_bus8  transistor_pair_bus8_2
+use transistor_pair_bus_8  transistor_pair_bus_8_2
 timestamp 1740627177
 transform 1 0 0 0 1 2684
 box -60 0 2636 1292

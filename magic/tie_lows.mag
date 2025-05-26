@@ -103,12 +103,12 @@ rect 2686 94 2786 462
 rect 2686 36 2698 94
 rect 2774 36 2786 94
 rect 2686 0 2786 36
-use tie_low  tie_low_1
+use tie_low_raw  tie_low_raw_1
 array 0 7 300 0 0 1292
 timestamp 1739883986
 transform 1 0 0 0 1 0
 box 88 36 388 1226
-use transistor_pair_bus8  transistor_pair_bus8_0
+use transistor_pair_bus_8  transistor_pair_bus_8_0
 timestamp 1740627177
 transform 1 0 0 0 1 0
 box -60 0 2636 1292
