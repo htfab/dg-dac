@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1748299940
+timestamp 1748318706
 << metal1 >>
 rect 148 1168 2524 1226
 rect 281 141 315 1130
@@ -13,7 +13,7 @@ timestamp 1748299149
 transform 1 0 60 0 1 0
 box -60 0 2636 1292
 use xor2_raw  xor2_raw_0
-timestamp 1748299483
+timestamp 1748318706
 transform 1 0 0 0 1 0
 box 148 36 2524 1226
 << labels >>
