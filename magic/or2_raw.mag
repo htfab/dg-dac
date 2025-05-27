@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1748065934
+timestamp 1748299149
 << metal1 >>
 rect 0 1132 900 1190
 rect 133 99 167 1100
@@ -17,11 +17,11 @@ rect 724 586 776 592
 rect 515 543 724 577
 rect 724 528 776 534
 use inverter_raw  inverter_raw_0
-timestamp 1748060222
+timestamp 1748299149
 transform 1 0 512 0 1 -36
 box 88 36 388 1226
 use nor2_raw  nor2_raw_0
-timestamp 1748065934
+timestamp 1748299149
 transform 1 0 -88 0 1 -36
 box 88 36 664 1226
 << labels >>

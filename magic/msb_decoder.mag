@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1748076454
+timestamp 1748307203
 << viali >>
 rect 78 5356 112 5694
 rect 15484 5356 15518 5694
@@ -754,58 +754,58 @@ rect 596 511 662 514
 rect 14235 511 14301 514
 rect 15304 511 15370 514
 use decoder4  decoder4_0
-timestamp 1748060222
+timestamp 1748299149
 transform 0 -1 14503 1 0 305
 box -305 0 2996 13410
 use shift_or2  shift_or2_0
-timestamp 1748076069
+timestamp 1748299149
 transform 1 0 0 0 1 0
 box 0 3329 15596 5868
 << labels >>
-flabel metal3 1199 514 14467 574 0 FreeSans 128 270 0 0 VDD
-port 1 nsew
-flabel metal3 1199 814 14467 874 0 FreeSans 128 270 0 0 VSS
-port 0 nsew
-flabel metal2 13890 0 13924 877 0 FreeSans 128 270 0 0 IN[6]
-port 4 nsew
-flabel metal2 12548 0 12582 877 0 FreeSans 128 270 0 0 IN[7]
-port 5 nsew
-flabel metal2 11206 0 11240 877 0 FreeSans 128 270 0 0 IN[4]
-port 2 nsew
-flabel metal2 9864 0 9898 877 0 FreeSans 128 270 0 0 IN[5]
-port 3 nsew
-flabel metal1 972 4785 1006 5629 1 FreeSans 128 0 0 0 C[0]
-port 6 n signal output
-flabel metal1 1872 4785 1906 5629 1 FreeSans 128 0 0 0 C[1]
-port 7 n signal output
-flabel metal1 2772 4785 2806 5629 1 FreeSans 128 0 0 0 C[2]
-port 8 n signal output
-flabel metal1 3672 4785 3706 5629 1 FreeSans 128 0 0 0 C[3]
-port 9 n signal output
-flabel metal1 4572 4785 4606 5629 1 FreeSans 128 0 0 0 C[4]
-port 10 n signal output
-flabel metal1 5472 4785 5506 5629 1 FreeSans 128 0 0 0 C[5]
-port 11 n signal output
-flabel metal1 6372 4785 6406 5629 1 FreeSans 128 0 0 0 C[6]
-port 12 n signal output
-flabel metal1 7272 4785 7306 5629 1 FreeSans 128 0 0 0 C[7]
-port 13 n signal output
-flabel metal1 8172 4785 8206 5629 1 FreeSans 128 0 0 0 C[8]
-port 14 n signal output
-flabel metal1 9072 4785 9106 5629 1 FreeSans 128 0 0 0 C[9]
-port 15 n signal output
-flabel metal1 9972 4785 10006 5629 1 FreeSans 128 0 0 0 C[10]
-port 16 n signal output
-flabel metal1 10872 4785 10906 5629 1 FreeSans 128 0 0 0 C[11]
-port 17 n signal output
-flabel metal1 11772 4785 11806 5629 1 FreeSans 128 0 0 0 C[12]
-port 18 n signal output
-flabel metal1 12672 4785 12706 5629 1 FreeSans 128 0 0 0 C[13]
-port 19 n signal output
-flabel metal1 13572 4785 13606 5629 1 FreeSans 128 0 0 0 C[14]
-port 20 n signal output
-flabel metal1 14472 4785 14506 5629 1 FreeSans 128 0 0 0 C[15]
-port 21 n signal output
 flabel metal1 15372 4785 15406 5629 1 FreeSans 128 0 0 0 C[16]
-port 22 n signal output
+port 22 nsew signal output
+flabel metal1 14472 4785 14506 5629 1 FreeSans 128 0 0 0 C[15]
+port 21 nsew signal output
+flabel metal1 13572 4785 13606 5629 1 FreeSans 128 0 0 0 C[14]
+port 20 nsew signal output
+flabel metal1 12672 4785 12706 5629 1 FreeSans 128 0 0 0 C[13]
+port 19 nsew signal output
+flabel metal1 11772 4785 11806 5629 1 FreeSans 128 0 0 0 C[12]
+port 18 nsew signal output
+flabel metal1 10872 4785 10906 5629 1 FreeSans 128 0 0 0 C[11]
+port 17 nsew signal output
+flabel metal1 9972 4785 10006 5629 1 FreeSans 128 0 0 0 C[10]
+port 16 nsew signal output
+flabel metal1 9072 4785 9106 5629 1 FreeSans 128 0 0 0 C[9]
+port 15 nsew signal output
+flabel metal1 8172 4785 8206 5629 1 FreeSans 128 0 0 0 C[8]
+port 14 nsew signal output
+flabel metal1 7272 4785 7306 5629 1 FreeSans 128 0 0 0 C[7]
+port 13 nsew signal output
+flabel metal1 6372 4785 6406 5629 1 FreeSans 128 0 0 0 C[6]
+port 12 nsew signal output
+flabel metal1 5472 4785 5506 5629 1 FreeSans 128 0 0 0 C[5]
+port 11 nsew signal output
+flabel metal1 4572 4785 4606 5629 1 FreeSans 128 0 0 0 C[4]
+port 10 nsew signal output
+flabel metal1 3672 4785 3706 5629 1 FreeSans 128 0 0 0 C[3]
+port 9 nsew signal output
+flabel metal1 2772 4785 2806 5629 1 FreeSans 128 0 0 0 C[2]
+port 8 nsew signal output
+flabel metal1 1872 4785 1906 5629 1 FreeSans 128 0 0 0 C[1]
+port 7 nsew signal output
+flabel metal1 972 4785 1006 5629 1 FreeSans 128 0 0 0 C[0]
+port 6 nsew signal output
+flabel metal2 9864 0 9898 877 0 FreeSans 128 270 0 0 IN[5]
+port 3 nsew signal input
+flabel metal2 11206 0 11240 877 0 FreeSans 128 270 0 0 IN[4]
+port 2 nsew signal input
+flabel metal2 12548 0 12582 877 0 FreeSans 128 270 0 0 IN[7]
+port 5 nsew signal input
+flabel metal2 13890 0 13924 877 0 FreeSans 128 270 0 0 IN[6]
+port 4 nsew signal input
+flabel metal3 1199 814 14467 874 0 FreeSans 128 270 0 0 VSS
+port 0 nsew ground bidirectional
+flabel metal3 1199 514 14467 574 0 FreeSans 128 270 0 0 VDD
+port 1 nsew power bidirectional
 << end >>
