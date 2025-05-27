@@ -1,0 +1,22 @@
+MACRO toplevel_dnwell
+  CLASS BLOCK ;
+  FOREIGN toplevel_dnwell ;
+  ORIGIN 0.000 0.000 ;
+  SIZE 145.360 BY 225.760 ;
+  OBS
+      LAYER nwell ;
+        RECT 17.850 60.680 119.865 207.880 ;
+      LAYER li1 ;
+        RECT 18.140 61.115 119.945 207.490 ;
+      LAYER met1 ;
+        RECT 0.000 0.000 145.360 225.760 ;
+      LAYER met2 ;
+        RECT 17.330 58.755 121.195 207.880 ;
+      LAYER met3 ;
+        RECT 14.990 0.100 137.095 225.080 ;
+      LAYER met4 ;
+        RECT 0.930 0.000 137.070 225.760 ;
+  END
+END toplevel_dnwell
+END LIBRARY
+
